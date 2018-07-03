@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<config>
+	<entry key="types" private="true">sidebar</entry>
+	<entry key="title">Kaltura Videos</entry>
+	<entry key="icon" private="true">icon-youtube-2</entry>
+	<entry key="auto_enable" private="false">true</entry>
+	<entry key="initial_height" private="true">600</entry>
+</config>
